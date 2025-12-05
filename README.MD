@@ -119,13 +119,13 @@ Participants in the Shared Task are expected to submit a paper to the CHiPSAL 20
 
 ## Timeline of the Events
 
-*Start of the Competition: Dec 5, 2025
-*Eval Phase Start: Dec 5, 2025
-*Test Phase Start: Dec 20, 2025
-*Test Phase End: Feb 14, 2026
-*Paper Submission Deadline: Feb 20, 2026
-*Notification of acceptance: March 1, 2026
-*Camera Ready due: March 6, 2026
+ * Start of the Competition: Dec 5, 2025
+ * Eval Phase Start: Dec 5, 2025
+ * Test Phase Start: Dec 20, 2025
+ * Test Phase End: Feb 14, 2026
+ * Paper Submission Deadline: Feb 20, 2026
+ * Notification of acceptance: March 1, 2026
+ * Camera Ready due: March 6, 2026
 
 
 ## Organizers
