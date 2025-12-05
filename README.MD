@@ -131,12 +131,10 @@ Participants in the Shared Task are expected to submit a paper to the CHiPSAL 20
 ## Organizers
 
   * Surendrabikram Thapa (Virginia Tech, USA)
+  * Kritesh Rauniyar (Macquarie University, Australia)
+  * Shuvam Shiwakoti (Virginia Tech, USA)
   * Siddhant Bikram Shah (Northeastern University, USA)
-  * Hariram Veeramani (University of California Los Angeles, USA)
-  * Liang Hu (DeepBlue Academy of Sciences, China)
-  * Qi Zhang (Tongji University, China)
-  * Wei Wang (Shenzhen MSU-BIT University, China)
-  * Usman Naseem (Macquarie University, Australia)
+  
 
 ## Contact
 
