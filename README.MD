@@ -115,7 +115,7 @@ Sample code and the baseline framework (MemeNePAL) used for this dataset are ava
 
 ## Publication
 
-Participants in the Shared Task are expected to submit a paper to the CHiPSAL 2026 workshop. Submitting a paper is not mandatory to participate in the shared task. Papers must follow the workshop submission instructions and will undergo regular peer review. Their acceptance will not depend on the results obtained in the shared task but on the quality of the paper. All the accepted papers will be published in the ACL Anthology.
+Participants in the Shared Task are expected to submit a paper to the CHiPSAL 2026 workshop. Submitting a paper is not mandatory to participate in the shared task. Papers must follow the workshop submission instructions and will undergo regular peer review. Their acceptance will not depend on the results obtained in the shared task but on the quality of the paper. All the accepted papers will be published in LREC's workshop proceedings.
 
 ## Timeline of the Events
 
