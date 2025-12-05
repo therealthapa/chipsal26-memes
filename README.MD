@@ -29,7 +29,7 @@ This shared task focuses on multimodal content moderation in low-resource langua
 
 **Sentiment Analysis in Code-Switched Nepali Memes:** Similar to Subtask D, this task focuses on sentiment classification in code-switched environments. The dataset will have three labels: *Negative*, *Neutral*, and *Positive*.
 
-**To know more about the dataset**: please refer to our [paper](https://www.google.com/search?q=https://doi.org/placeholder-for-icwsm-paper).
+**To know more about the dataset**: please refer to the [dataset paper](https://ojs.aaai.org/index.php/ICWSM/article/download/35909/38063).
 
 ## Participation
 
