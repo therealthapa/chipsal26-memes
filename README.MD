@@ -1,7 +1,9 @@
 # Shared Task on Multimodal Hate and Sentiment Understanding in Low-Resource Memes at CHiPSAL 2026
 
 Competition Links:
+
 [Subtask A: Hate Speech Detection in Nepali-only Memes](https://www.codabench.org/competitions/12090/)
+
 [Subtask B: Sentiment Analysis in Nepali-only Memes](https://www.codabench.org/competitions/12091/)
 
 **Multimodal content moderation in low-resource languages**
