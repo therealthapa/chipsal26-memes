@@ -28,32 +28,17 @@ Join our Codabench competition here:
 
 All the images have a unique identifier called "index". The labels for training data are organized in the folder provided. For evaluation and testing, the submission format is mentioned below.
 
-**Training Data**
+**Subtask A**
 
-  * Subtask A (Hate - Nepali): [Link Placeholder]
-  * Subtask B (Sentiment - Nepali): [Link Placeholder]
-  * Subtask C (Hate - Code-Mixed): [Link Placeholder]
-  * Subtask D (Sentiment - Code-Mixed): [Link Placeholder]
-  * Subtask E (Hate - Code-Switched): [Link Placeholder]
-  * Subtask F (Sentiment - Code-Switched): [Link Placeholder]
+  * Training Data: []
+  * Evaluation Data (Without Labels): []
+  * Test Data: []
 
-**Evaluation Data (Without Labels)**
+**Subtask B**
 
-  * Subtask A: [Link Placeholder]
-  * Subtask B: [Link Placeholder]
-  * Subtask C: [Link Placeholder]
-  * Subtask D: [Link Placeholder]
-  * Subtask E: [Link Placeholder]
-  * Subtask F: [Link Placeholder]
-
-**Test Data**
-
-  * Subtask A: [Link Placeholder]
-  * Subtask B: [Link Placeholder]
-  * Subtask C: [Link Placeholder]
-  * Subtask D: [Link Placeholder]
-  * Subtask E: [Link Placeholder]
-  * Subtask F: [Link Placeholder]
+  * Training Data: []
+  * Evaluation Data (Without Labels): []
+  * Test Data: []
 
 ## Instructions for OCR Extraction
 
