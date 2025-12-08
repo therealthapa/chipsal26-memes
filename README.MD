@@ -18,7 +18,7 @@ This shared task focuses on multimodal content moderation in low-resource langua
 
 **Sentiment Analysis in Nepali-only Memes:** The goal is to classify the sentiment of monolingual Nepali memes. The dataset will have three labels: *Negative*, *Neutral*, and *Positive*.
 
-**To know more about the dataset**: please refer to the [dataset paper](https://ojs.aaai.org/index.php/ICWSM/article/download/35909/38063).
+**To learn more about the dataset**: please refer to the [dataset paper](https://ojs.aaai.org/index.php/ICWSM/article/download/35909/38063).
 
 ## Participation
 
@@ -43,13 +43,6 @@ All the images have a unique identifier called "index". The labels for training 
   * [Evaluation Data (Without Labels)](https://drive.google.com/drive/folders/1zUyIjCJq9K6CoqM7HZDgs14nagU96Hyp?usp=drive_link)
   * [Test Data](https://drive.google.com/drive/folders/1RgLzy3tkZ9HVk296kVpZzO79svvTaUzr?usp=drive_link)
 
-## Instructions for OCR Extraction
-
-If you want to extract OCR, you can use Google Vision API, Tesseract, EasyOCR, etc. In the benchmark paper (Thapa et al., 2025), Google Vision API was used to extract OCR for training the models. As many participants may not have access to the Vision API, we have provided the extracted text used in our benchmark paper.
-
-Extracted Text for Train Data: [Link Placeholder]
-Extracted Text for Evaluation Data: [Link Placeholder]
-
 ## Use of External Data
 
 The use of external datasets is permitted. You should also mention your external data usage in your paper write-up. For code-mixed and low-resource settings, participants may find datasets like TamilMemes or Hindi code-mixed datasets useful for transfer learning experiments.
@@ -72,7 +65,7 @@ For all Subtasks, the performance will be ranked by **F1-score** (Macro).
 
 ## Sample Code
 
-Sample code and the baseline framework (MemeNePAL) used for this dataset are available at [GitHub Repository](https://github.com/therealthapa/chipsal26-memes).
+Sample code and the baseline framework (MemeNePAL) used for this dataset are available at our [GitHub Repository](https://github.com/therealthapa/chipsal26-memes).
 
 ## Publication
 
