@@ -1,9 +1,11 @@
 # Shared Task on Multimodal Hate and Sentiment Understanding in Low-Resource Memes at CHiPSAL 2026
 
-[Competition Link](https://www.google.com)
+Competition Links:
+[Subtask A: Hate Speech Detection in Nepali-only Memes](https://www.codabench.org/competitions/12090/)
+[Subtask B: Sentiment Analysis in Nepali-only Memes](https://www.codabench.org/competitions/12091/)
 
 **Multimodal content moderation in low-resource languages**
-This shared task focuses on multimodal content moderation in low-resource languages, with a particular emphasis on Nepali memes. The objective is to develop systems that can automatically determine whether a meme is hateful or not, as well as classify its sentiment into positive, negative, or neutral categories. The task will include six subtasks: (i) hate speech detection in Nepali-only memes, (ii) sentiment analysis in Nepali-only memes, (iii) hate speech detection in code-mixed Nepali memes, (iv) sentiment analysis in code-mixed Nepali memes, (v) hate speech detection in code-switched Nepali memes, and (vi) sentiment analysis in code-switched Nepali memes. The competition will be hosted on CodaLab. A dataset for this task has already been published in ICWSM 2025 (Thapa et al., 2025).
+This shared task focuses on multimodal content moderation in low-resource languages, with a particular emphasis on Nepali memes. The objective is to develop systems that can automatically determine whether a meme is hateful or not, as well as classify its sentiment into positive, negative, or neutral categories. The task will include two subtasks: (i) hate speech detection in Nepali-only memes and (ii) sentiment analysis in Nepali-only memes. The competition will be hosted on Codabench. A dataset for this task has already been published in ICWSM 2025 (Thapa et al., 2025).
 
 ## Subtask A
 
@@ -13,27 +15,14 @@ This shared task focuses on multimodal content moderation in low-resource langua
 
 **Sentiment Analysis in Nepali-only Memes:** The goal is to classify the sentiment of monolingual Nepali memes. The dataset will have three labels: *Negative*, *Neutral*, and *Positive*.
 
-## Subtask C
-
-**Hate Speech Detection in Code-Mixed Nepali Memes:** The aim is to detect the presence of hate speech in memes containing both Nepali and English text (code-mixed). The dataset for this task will have binary labels: *Non-Hate* and *Hate*.
-
-## Subtask D
-
-**Sentiment Analysis in Code-Mixed Nepali Memes:** The goal is to classify the sentiment of code-mixed Nepali-English memes. The dataset will have three labels: *Negative*, *Neutral*, and *Positive*.
-
-## Subtask E
-
-**Hate Speech Detection in Code-Switched Nepali Memes:** Similar to Subtask C, this task focuses on detecting hate speech in code-switched environments. The dataset will have binary labels: *Non-Hate* and *Hate*.
-
-## Subtask F
-
-**Sentiment Analysis in Code-Switched Nepali Memes:** Similar to Subtask D, this task focuses on sentiment classification in code-switched environments. The dataset will have three labels: *Negative*, *Neutral*, and *Positive*.
-
 **To know more about the dataset**: please refer to the [dataset paper](https://ojs.aaai.org/index.php/ICWSM/article/download/35909/38063).
 
 ## Participation
 
-Join our CodaLab competition [here](https://www.google.com).
+Join our Codabench competition here:
+
+[Subtask A: Hate Speech Detection in Nepali-only Memes](https://www.codabench.org/competitions/12090/)
+[Subtask B: Sentiment Analysis in Nepali-only Memes](https://www.codabench.org/competitions/12091/)
 
 ## Dataset
 
@@ -79,33 +68,17 @@ The use of external datasets is permitted. You should also mention your external
 
 ## Evaluation
 
-All the images have a unique identifier called "index". The labels for training data are organized in the folder provided. For evaluation and testing, the script takes one prediction file as input. Your submission file must be a JSON file inside a zipped archive. To submit the files, name your JSON file `submission.json` and zip it with the file name `ref.zip`. Ensure that the zip does not have any sub-directories. The system only recognizes the first file in the zip folder.
+All the images have a unique identifier called "index". The labels for training data are organized in the folder provided. For evaluation and testing, the script takes one prediction file as input. 
 
-IMPORTANT: Ensure that the index order in the submission file in JSON is in ascending order.
+Your submission file must be a .csv file named ‘predictions.csv’ with columns 'index' and ‘label’. You must zip this file and submit the zipped archive file. Ensure that the zip does not have any sub-directories or any files besides the 'predictions.csv' file. The system only recognizes the first file in the zip folder. Ensure that the index order in the submission file is in ascending order.
 
-**Hate Speech Detection (Subtasks A, C, E)**
+**Hate Speech Detection (Subtask A)**
 
 The Non-Hate label should be assigned '0', and the Hate label should be assigned '1'.
 
-For example:
-
-```python
-{"index": "meme_20568.jpg", "prediction": 1}
-{"index": "meme_30987.jpg", "prediction": 0}
-{"index": "meme_45805.jpg", "prediction": 0}
-```
-
-**Sentiment Analysis (Subtasks B, D, F)**
+**Sentiment Analysis (Subtask B)**
 
 The Negative label should be assigned '0', the Neutral label should be assigned '1', and the Positive label should be assigned '2'.
-
-For example:
-
-```python
-{"index": "meme_20568.jpg", "prediction": 2}
-{"index": "meme_30987.jpg", "prediction": 0}
-{"index": "meme_45805.jpg", "prediction": 1}
-```
 
 For all Subtasks, the performance will be ranked by **F1-score** (Macro).
 
@@ -119,13 +92,13 @@ Participants in the Shared Task are expected to submit a paper to the CHiPSAL 20
 
 ## Timeline of the Events
 
- * Start of the Competition: Dec 5, 2025
- * Eval Phase Start: Dec 5, 2025
- * Test Phase Start: Dec 20, 2025
+ * Start of the Competition: Dec 8, 2025
+ * Eval Phase Start: Dec 8, 2025
+ * Test Phase Start: Dec 25, 2025
  * Test Phase End: Feb 14, 2026
  * Paper Submission Deadline: Feb 20, 2026
- * Notification of acceptance: March 1, 2026
- * Camera Ready due: March 6, 2026
+ * Notification of acceptance: March 20, 2026
+ * Camera Ready due: March 30, 2026
 
 
 ## Organizers
@@ -134,6 +107,7 @@ Participants in the Shared Task are expected to submit a paper to the CHiPSAL 20
   * Kritesh Rauniyar (Macquarie University, Australia)
   * Shuvam Shiwakoti (Virginia Tech, USA)
   * Siddhant Bikram Shah (Northeastern University, USA)
+  * Kristina T. Johnson (Northeastern University, USA)
   
 
 ## Contact
