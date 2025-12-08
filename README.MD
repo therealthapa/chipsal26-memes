@@ -7,6 +7,7 @@ Competition Links:
 [Subtask B: Sentiment Analysis in Nepali-only Memes](https://www.codabench.org/competitions/12091/)
 
 **Multimodal content moderation in low-resource languages**
+
 This shared task focuses on multimodal content moderation in low-resource languages, with a particular emphasis on Nepali memes. The objective is to develop systems that can automatically determine whether a meme is hateful or not, as well as classify its sentiment into positive, negative, or neutral categories. The task will include two subtasks: (i) hate speech detection in Nepali-only memes and (ii) sentiment analysis in Nepali-only memes. The competition will be hosted on Codabench. A dataset for this task has already been published in ICWSM 2025 (Thapa et al., 2025).
 
 ## Subtask A
