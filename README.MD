@@ -30,15 +30,15 @@ All the images have a unique identifier called "index". The labels for training 
 
 **Subtask A**
 
-  * Training Data: []
-  * Evaluation Data (Without Labels): []
-  * Test Data: []
+  * Training Data: [https://drive.google.com/drive/folders/1965Wf_dlQV5Z4Js8clQ66HQGr6BwV5sy?usp=drive_link]
+  * Evaluation Data (Without Labels): [https://drive.google.com/drive/folders/1IYyaBb9Skj6iG6EXZhMl1LzkPt953u1g?usp=drive_link]
+  * Test Data: [https://drive.google.com/drive/folders/1CDYZn0wEitU7ZS8bLShHx1gCJ78i1h56?usp=drive_link]
 
 **Subtask B**
 
-  * Training Data: []
-  * Evaluation Data (Without Labels): []
-  * Test Data: []
+  * Training Data: [https://drive.google.com/drive/folders/1y_pRejkzPIVtatbYwUl7vSs32-TUbHLp?usp=drive_link]
+  * Evaluation Data (Without Labels): [https://drive.google.com/drive/folders/1zUyIjCJq9K6CoqM7HZDgs14nagU96Hyp?usp=drive_link]
+  * Test Data: [https://drive.google.com/drive/folders/1RgLzy3tkZ9HVk296kVpZzO79svvTaUzr?usp=drive_link]
 
 ## Instructions for OCR Extraction
 
