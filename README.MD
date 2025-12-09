@@ -97,6 +97,6 @@ If there are any questions related to the competition, please contact the organi
 
 ## References
 
-  * Thapa, S., Veeramani, H., Hu, L., Zhang, Q., Wang, W., & Naseem, U. (2025). NeMeme: A Multimodal Prompt-based Framework for Analyzing Code-Mixed and Low-Resource Memes. In *Proceedings of the Nineteenth International AAAI Conference on Web and Social Media (ICWSM 2025)*.
-  *Thapa, S., Veeramani, H., Razzak, I., Lee, R. K. W., & Naseem, U. (2025, May). Cross Platform MultiModal Retrieval Augmented Distillation for Code-Switched Content Understanding. In Companion Proceedings of the ACM on Web Conference 2025 (pp. 2042-2051).*
+- *Thapa, S., Veeramani, H., Hu, L., Zhang, Q., Wang, W., & Naseem, U. (2025). NeMeme: A Multimodal Prompt-based Framework for Analyzing Code-Mixed and Low-Resource Memes. In *Proceedings of the Nineteenth International AAAI Conference on Web and Social Media (ICWSM 2025)*.
+- *Thapa, S., Veeramani, H., Razzak, I., Lee, R. K. W., & Naseem, U. (2025, May). Cross Platform MultiModal Retrieval Augmented Distillation for Code-Switched Content Understanding. In Companion Proceedings of the ACM on Web Conference 2025 (pp. 2042-2051).*
 
