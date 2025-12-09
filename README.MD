@@ -82,15 +82,17 @@ Participants in the Shared Task are expected to submit a paper to the CHiPSAL 20
  * Notification of acceptance: March 20, 2026
  * Camera Ready due: March 30, 2026
 
-
 ## Organizers
 
-  * Surendrabikram Thapa (Virginia Tech, USA)
-  * Kritesh Rauniyar (Macquarie University, Australia)
-  * Shuvam Shiwakoti (Virginia Tech, USA)
-  * Siddhant Bikram Shah (Northeastern University, USA)
-  * Kristina T. Johnson (Northeastern University, USA)
-  
+* Surendrabikram Thapa (Virginia Tech, USA)
+* Shuvam Shiwakoti (Virginia Tech, USA)
+* Siddhant Bikram Shah (Northeastern University, USA)
+* Kritesh Rauniyar (Delhi Technological University, India)
+* Surabhi Adhikari (Columbia University, USA)
+* Kristina T. Johnson (Northeastern University, USA)
+* Kengatharaiyer Sarveswaran (University of Jaffna, Sri Lanka)
+* Bal Krishna Bal (Kathmandu University, Nepal)
+* Usman Naseem (Macquarie University, Australia)
 
 ## Contact
 
