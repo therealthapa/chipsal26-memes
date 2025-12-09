@@ -33,13 +33,13 @@ All the images have a unique identifier called "index". The labels for training 
 
 **Subtask A**
 
-  * [Training Data](https://drive.google.com/drive/folders/1965Wf_dlQV5Z4Js8clQ66HQGr6BwV5sy?usp=drive_link)
-  * [Evaluation Data (Without Labels)](https://drive.google.com/drive/folders/1IYyaBb9Skj6iG6EXZhMl1LzkPt953u1g?usp=drive_link)
+  * [Training Data](https://drive.google.com/drive/folders/1965Wf_dlQV5Z4Js8clQ66HQGr6BwV5sy?usp=sharing)
+  * [Evaluation Data (Without Labels)](https://drive.google.com/drive/folders/1EkUb1-sr52AEoNmXZSqcst9rMqDQKVXi?usp=sharing)
 
 **Subtask B**
 
-  * [Training Data](https://drive.google.com/drive/folders/1y_pRejkzPIVtatbYwUl7vSs32-TUbHLp?usp=drive_link)
-  * [Evaluation Data (Without Labels)](https://drive.google.com/drive/folders/1zUyIjCJq9K6CoqM7HZDgs14nagU96Hyp?usp=drive_link)
+  * [Training Data](https://drive.google.com/drive/folders/1y_pRejkzPIVtatbYwUl7vSs32-TUbHLp?usp=sharing)
+  * [Evaluation Data (Without Labels)](https://drive.google.com/drive/folders/1TI5e0tE8rvhk1i_fJAKO9MsOivSIx2Ny?usp=sharing)
 
 ## OCR Extraction
 Participants can use OCR extraction tools. We used [EasyOCR](https://github.com/JaidedAI/EasyOCR) in the project. [EasyOCR](https://github.com/JaidedAI/EasyOCR) is a simple and free tool for extracting text from images using Python. After installing it with pip, you create a reader that loads language models once, then call readtext() on an image to get detected words and their confidence scores. It supports multiple languages, including Nepali ('ne' argument in the function), works with file paths, NumPy arrays, or URLs, and can run on GPU or CPU. With just a few lines of code, you can perform OCR on scanned documents, signs, or screenshots and retrieve the text directly for further processing.
