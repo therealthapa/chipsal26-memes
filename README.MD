@@ -25,6 +25,7 @@ This shared task focuses on multimodal content moderation in low-resource langua
 Join our Codabench competition here:
 
 [Subtask A: Hate Speech Detection in Nepali-only Memes](https://www.codabench.org/competitions/12090/)
+
 [Subtask B: Sentiment Analysis in Nepali-only Memes](https://www.codabench.org/competitions/12091/)
 
 ## Dataset
