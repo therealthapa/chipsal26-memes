@@ -60,11 +60,11 @@ Your submission file must be a .csv file named ‘predictions.csv’ with column
 
 | index | label |
 |----------|----------|
-|15001|	0|
-|12345|	1|
-|65102|	1|
-|35231|	0|
-|20524|	1|
+|15001.jpg|	0|
+|12345.jpg|	1|
+|65102.jpg|	1|
+|35231.jpg|	0|
+|20524.jpg|	1|
 
 **Hate Speech Detection (Subtask A)**
 
