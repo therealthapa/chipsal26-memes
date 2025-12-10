@@ -34,7 +34,7 @@ All the images have a unique identifier called "index". The labels for training 
 
 | SubTask | Link |
 |----------|----------|
-| SubTask-A | [here](https://drive.google.com/drive/folders/1965Wf_dlQV5Z4Js8clQ66HQGr6BwV5sy?usp=sharing) |
+| SubTask-A | [Link](https://drive.google.com/drive/folders/1965Wf_dlQV5Z4Js8clQ66HQGr6BwV5sy?usp=sharing) |
 | SubTask-B | [Link](https://drive.google.com/drive/folders/1y_pRejkzPIVtatbYwUl7vSs32-TUbHLp?usp=sharing) |
 
 **Eval Data:**
