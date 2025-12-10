@@ -31,15 +31,19 @@ Join our Codabench competition here:
 
 All the images have a unique identifier called "index". The labels for training data are organized in the folder provided. For evaluation and testing, the submission format is mentioned below.
 
-**Subtask A**
+| SubTask | Link |
+|----------|----------|
+| SubTask-A | [here](https://drive.google.com/drive/folders/1965Wf_dlQV5Z4Js8clQ66HQGr6BwV5sy?usp=sharing) |
+| SubTask-B | [Link](https://drive.google.com/drive/folders/1y_pRejkzPIVtatbYwUl7vSs32-TUbHLp?usp=sharing) |
 
-  * [Training Data](https://drive.google.com/drive/folders/1965Wf_dlQV5Z4Js8clQ66HQGr6BwV5sy?usp=sharing)
-  * [Evaluation Data (Without Labels)](https://drive.google.com/drive/folders/1EkUb1-sr52AEoNmXZSqcst9rMqDQKVXi?usp=sharing)
+**Eval Data:**
 
-**Subtask B**
 
-  * [Training Data](https://drive.google.com/drive/folders/1y_pRejkzPIVtatbYwUl7vSs32-TUbHLp?usp=sharing)
-  * [Evaluation Data (Without Labels)](https://drive.google.com/drive/folders/1TI5e0tE8rvhk1i_fJAKO9MsOivSIx2Ny?usp=sharing)
+| SubTask | Link |
+|----------|----------|
+| SubTask-A | [Link](https://drive.google.com/drive/folders/1EkUb1-sr52AEoNmXZSqcst9rMqDQKVXi?usp=sharing) | 
+| SubTask-B | [Link](https://drive.google.com/drive/folders/1TI5e0tE8rvhk1i_fJAKO9MsOivSIx2Ny?usp=sharing) |
+
 
 ## OCR Extraction
 Participants can use OCR extraction tools. We used [EasyOCR](https://github.com/JaidedAI/EasyOCR) in the project. [EasyOCR](https://github.com/JaidedAI/EasyOCR) is a simple and free tool for extracting text from images using Python. After installing it with pip, you create a reader that loads language models once, then call readtext() on an image to get detected words and their confidence scores. It supports multiple languages, including Nepali ('ne' argument in the function), works with file paths, NumPy arrays, or URLs, and can run on GPU or CPU. With just a few lines of code, you can perform OCR on scanned documents, signs, or screenshots and retrieve the text directly for further processing.
@@ -52,7 +56,15 @@ The use of external datasets is permitted. You should also mention your external
 
 All the images have a unique identifier called "index". The labels for training data are organized in the folder provided. For evaluation and testing, the script takes one prediction file as input. 
 
-Your submission file must be a .csv file named ‘predictions.csv’ with columns 'index' and ‘label’. You must zip this file and submit the zipped archive file. Ensure that the zip does not have any sub-directories or any files besides the 'predictions.csv' file. The system only recognizes the first file in the zip folder. Ensure that the index order in the submission file is in ascending order.
+Your submission file must be a .csv file named ‘predictions.csv’ with columns 'index' and ‘label’. You must zip this file and submit the zipped archive file. Ensure that the zip does not have any sub-directories or any files besides the 'predictions.csv' file. The system only recognizes the first file in the zip folder. Ensure that the index order in the submission file is in ascending order. A sample submission file is available [here](https://github.com/therealthapa/chipsal26-memes/blob/main/sample_submission.csv).
+
+| index | label |
+|----------|----------|
+|15001|	0|
+|12345|	1|
+|65102|	1|
+|35231|	0|
+|20524|	1|
 
 **Hate Speech Detection (Subtask A)**
 
