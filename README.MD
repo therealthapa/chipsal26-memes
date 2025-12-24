@@ -44,11 +44,13 @@ All the images have a unique identifier called "index". The labels for training 
 
 | SubTask | Link |
 |----------|----------|
-| SubTask-A | [Link](https://drive.google.com/drive/folders/1EkUb1-sr52AEoNmXZSqcst9rMqDQKVXi?usp=sharing) | 
-| SubTask-B | [Link](https://drive.google.com/drive/folders/1TI5e0tE8rvhk1i_fJAKO9MsOivSIx2Ny?usp=sharing) |
+| SubTask-A | [Link](https://drive.google.com/drive/folders/1IYyaBb9Skj6iG6EXZhMl1LzkPt953u1g?usp=drive_link) | 
+| SubTask-B | [Link](https://drive.google.com/drive/folders/1zUyIjCJq9K6CoqM7HZDgs14nagU96Hyp?usp=drive_link) |
 
 **Test Data:**
 
+| SubTask | Link |
+|----------|----------|
 | SubTask-A | [Link](https://drive.google.com/drive/folders/1CDYZn0wEitU7ZS8bLShHx1gCJ78i1h56?usp=drive_link) | 
 | SubTask-B | [Link](https://drive.google.com/drive/folders/1RgLzy3tkZ9HVk296kVpZzO79svvTaUzr?usp=drive_link) |
 
