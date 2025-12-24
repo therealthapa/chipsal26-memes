@@ -32,6 +32,8 @@ Join our Codabench competition here:
 
 All the images have a unique identifier called "index". The labels for training data are organized in the folder provided. For evaluation and testing, the submission format is mentioned below.
 
+**Train Data:**
+
 | SubTask | Link |
 |----------|----------|
 | SubTask-A | [Link](https://drive.google.com/drive/folders/1965Wf_dlQV5Z4Js8clQ66HQGr6BwV5sy?usp=sharing) |
@@ -45,6 +47,10 @@ All the images have a unique identifier called "index". The labels for training 
 | SubTask-A | [Link](https://drive.google.com/drive/folders/1EkUb1-sr52AEoNmXZSqcst9rMqDQKVXi?usp=sharing) | 
 | SubTask-B | [Link](https://drive.google.com/drive/folders/1TI5e0tE8rvhk1i_fJAKO9MsOivSIx2Ny?usp=sharing) |
 
+**Test Data:**
+
+| SubTask-A | [Link](https://drive.google.com/drive/folders/1CDYZn0wEitU7ZS8bLShHx1gCJ78i1h56?usp=drive_link) | 
+| SubTask-B | [Link](https://drive.google.com/drive/folders/1RgLzy3tkZ9HVk296kVpZzO79svvTaUzr?usp=drive_link) |
 
 ## OCR Extraction
 Participants can use OCR extraction tools. We used [EasyOCR](https://github.com/JaidedAI/EasyOCR) in the project. [EasyOCR](https://github.com/JaidedAI/EasyOCR) is a simple and free tool for extracting text from images using Python. After installing it with pip, you create a reader that loads language models once, then call readtext() on an image to get detected words and their confidence scores. It supports multiple languages, including Nepali ('ne' argument in the function), works with file paths, NumPy arrays, or URLs, and can run on GPU or CPU. With just a few lines of code, you can perform OCR on scanned documents, signs, or screenshots and retrieve the text directly for further processing.
