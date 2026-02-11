@@ -98,8 +98,8 @@ Participants in the Shared Task are expected to submit a paper to the CHiPSAL 20
  * Start of the Competition: Dec 8, 2025
  * Eval Phase Start: Dec 8, 2025
  * Test Phase Start: Dec 25, 2025
- * Test Phase End: Feb 14, 2026
- * Paper Submission Deadline: Feb 20, 2026
+ * Test Phase End: Feb 22, 2026
+ * Paper Submission Deadline: March 1, 2026
  * Notification of acceptance: March 20, 2026
  * Camera Ready due: March 30, 2026
 
@@ -108,7 +108,8 @@ Participants in the Shared Task are expected to submit a paper to the CHiPSAL 20
 * Surendrabikram Thapa (Virginia Tech, USA)
 * Shuvam Shiwakoti (Virginia Tech, USA)
 * Siddhant Bikram Shah (Northeastern University, USA)
-* Kritesh Rauniyar (Delhi Technological University, India)
+* Kritesh Rauniyar (Macquarie University, Australia)
+* Laxmi Thapa (O.P. Jindal Global University, India)
 * Surabhi Adhikari (Columbia University, USA)
 * Kristina T. Johnson (Northeastern University, USA)
 * Kengatharaiyer Sarveswaran (University of Jaffna, Sri Lanka)
